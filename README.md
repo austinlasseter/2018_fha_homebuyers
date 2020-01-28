@@ -11,4 +11,4 @@ The original data file (Public Use National A) contains 2,953,035 records showin
 The data in the FHFA PUDB is very similar to another nationally-representative survey dataset published each year by the National Association of Realtors (NAR). The NAR dataset is proprietary and must be purchased for further analysis, but a summary report is available for free on their website.
 * https://www.nar.realtor/research-and-statistics/research-reports/highlights-from-the-profile-of-home-buyers-and-sellers
 * https://www.nar.realtor/research-and-statistics/research-reports
-
+* https://www.linkedin.com/jobs/view/analyst-research-survey-at-national-association-of-realtors%C2%AE-1429037555/
